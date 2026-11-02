@@ -1,6 +1,12 @@
 # 🦷 SmileCraft Dental Care & Live Serialization System
 ### Advanced Dental Surgeon Portfolio, Multi-Chamber Management & Real-Time Queue Platform for Bangladesh
 
+[![Live on GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-teal?style=for-the-badge&logo=github)](https://smh1s1n.github.io/dental-profile/)
+[![Flutter](https://img.shields.io/badge/Flutter-3.47.7-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
+[![Riverpod](https://img.shields.io/badge/State-Riverpod%203-blue?style=for-the-badge)](https://riverpod.dev)
+
+🌐 **Live URL:** [https://smh1s1n.github.io/dental-profile/](https://smh1s1n.github.io/dental-profile/)
+
 A comprehensive, production-grade Flutter application built with **Riverpod**, **Clean Architecture (Feature-First)**, and the **Singleton Design Principle**, engineered specifically for dental surgeons in Bangladesh managing multiple private chambers.
 
 ---
